@@ -1,0 +1,15 @@
+D:\_GEEK Brains\C# training\SortTypes_QuickSort\bin\Debug\net7.0\SortTypes_QuickSort.exe
+D:\_GEEK Brains\C# training\SortTypes_QuickSort\bin\Debug\net7.0\SortTypes_QuickSort.deps.json
+D:\_GEEK Brains\C# training\SortTypes_QuickSort\bin\Debug\net7.0\SortTypes_QuickSort.runtimeconfig.json
+D:\_GEEK Brains\C# training\SortTypes_QuickSort\bin\Debug\net7.0\SortTypes_QuickSort.dll
+D:\_GEEK Brains\C# training\SortTypes_QuickSort\bin\Debug\net7.0\SortTypes_QuickSort.pdb
+D:\_GEEK Brains\C# training\SortTypes_QuickSort\obj\Debug\net7.0\SortTypes_QuickSort.csproj.AssemblyReference.cache
+D:\_GEEK Brains\C# training\SortTypes_QuickSort\obj\Debug\net7.0\SortTypes_QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\_GEEK Brains\C# training\SortTypes_QuickSort\obj\Debug\net7.0\SortTypes_QuickSort.AssemblyInfoInputs.cache
+D:\_GEEK Brains\C# training\SortTypes_QuickSort\obj\Debug\net7.0\SortTypes_QuickSort.AssemblyInfo.cs
+D:\_GEEK Brains\C# training\SortTypes_QuickSort\obj\Debug\net7.0\SortTypes_QuickSort.csproj.CoreCompileInputs.cache
+D:\_GEEK Brains\C# training\SortTypes_QuickSort\obj\Debug\net7.0\SortTypes_QuickSort.dll
+D:\_GEEK Brains\C# training\SortTypes_QuickSort\obj\Debug\net7.0\refint\SortTypes_QuickSort.dll
+D:\_GEEK Brains\C# training\SortTypes_QuickSort\obj\Debug\net7.0\SortTypes_QuickSort.pdb
+D:\_GEEK Brains\C# training\SortTypes_QuickSort\obj\Debug\net7.0\SortTypes_QuickSort.genruntimeconfig.cache
+D:\_GEEK Brains\C# training\SortTypes_QuickSort\obj\Debug\net7.0\ref\SortTypes_QuickSort.dll
